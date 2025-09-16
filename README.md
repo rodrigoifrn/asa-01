@@ -17,3 +17,14 @@ sudo apt install apache2
 ```
 sudo apt intall -y apache2
 ```
+## Passo 03 - Confirmando a Instalação do apache2
+
+Abra um navegador de sua preferência e (Mozilla, Google Chrome)
+e digite "localhost" no campo endereço.
+
+```
+localhost
+```
+se Apareceu a tela do Apache, tudo certo, caso contrario revise os passos
+
+### Tutorial feito por Rodrigo Cirilo ##
