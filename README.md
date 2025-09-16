@@ -5,5 +5,7 @@ Esse tutorial tem o objetivo de auxiliar na instalção do Apache2, no sistema o
 #Passo 01 - Ataulização do Repositório
   Para atualizar o repositório do Ubuntu você vai abrir o terminal e digitar o seguinte comando:
 
-```sudo apt update
+```
+sudo apt update
+
 ```
